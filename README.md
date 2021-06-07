@@ -50,14 +50,12 @@
 <hr>
 
 
-
-<br/><br/>
 <!-- 
 [![AK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhiramKrishna88&show_icons=true&theme=prussian)](https://github.com/AbhiramKrishna88) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramKrishna88&show_icons=true&theme=prussian)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramKrishna88&show_icons=true&theme=prussian) -->
 
-<br><br>
+<br>
 
 
 
