@@ -74,7 +74,7 @@
 <a href="https://abhiramk.epizy.com/"><img alt="Website" src="https://img.shields.io/badge/abhiramk.epizy.com.app-black?style=flat-square&logo=google-chrome"></a>
 
   
-<a href="https://www.instagram.com/thehidden_reality/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thehidden_reality-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/abhikrishnaram/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-abhikrishnaram-black?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:abhikrishnaram88@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abhikrishnaram88@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
