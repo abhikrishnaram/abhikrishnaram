@@ -67,7 +67,7 @@
 
 <p align="center">
 
-<a href="https://abhiramk.epizy.com/"><img alt="Website" src="https://img.shields.io/badge/abhiramk.epizy.com.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://abhikrishnaram.me/"><img alt="Website" src="https://img.shields.io/badge/abhikrishnaram.me-black?style=flat-square&logo=google-chrome"></a>
 
   
 <a href="https://www.instagram.com/abhikrishnaram/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-abhikrishnaram-black?style=flat-square&logo=instagram"></a>
