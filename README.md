@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm AK</h2>
+### Hi there 👋<h2> I'm Abhiram Keishna</h2>
 
 <img align='right' src="https://media2.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=ecf05e47prn792d97aplx8qtcl1b6bczih67585gw7i5a02m&rid=giphy.gif&ct=s" width="230">
 
@@ -7,8 +7,6 @@
 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
-- 🎓 &nbsp; Studying Computer Science all by my self!.
 
 - 🌱 &nbsp; Learning about Cyber security, Linux Systems.
 
@@ -21,7 +19,7 @@
 
 - 💻 &nbsp; Python | Java 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | NodeJs | Express |
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | NextJS | NodeJs | Express | 
 
 - 🛢 &nbsp; MySQL | MongoDB
 
@@ -32,7 +30,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | and finding more 
+- 🔧 &nbsp; AWS | Docker🐳 | Django | and finding more 
 
 
 
@@ -47,13 +45,11 @@
 
 - ◼ &nbsp; Its always `Dark mode`
 
-<hr>
-
 
 <!-- 
 [![AK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhiramKrishna88&show_icons=true&theme=prussian)](https://github.com/AbhiramKrishna88) -->
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramKrishna88&show_icons=true&theme=prussian) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhikrishnaram&show_icons=true&theme=prussian)
 
 <br>
 
