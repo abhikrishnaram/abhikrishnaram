@@ -8,10 +8,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🌱 &nbsp; Learning about Cyber security, Linux Systems.
-
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
 
 <h3>🛠 Tech Stack</h3>
 
@@ -24,14 +20,6 @@
 - 🛢 &nbsp; MySQL | MongoDB
 
 - 🔧 &nbsp; Git | Vercel | Heroku | Netlify
-
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Django | and finding more 
-
 
 
 
