@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Abhiram Keishna</h2>
+### Hi there 👋<h2> I'm Abhiram Krishna</h2>
 
 <img align='right' src="https://media2.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=ecf05e47prn792d97aplx8qtcl1b6bczih67585gw7i5a02m&rid=giphy.gif&ct=s" width="230">
 
