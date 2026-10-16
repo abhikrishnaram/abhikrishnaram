@@ -7,7 +7,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abhikrishnaram/">LinkedIn</a> ·
   <a href="https://abhikrishnaram.com/">abhikrishnaram.com</a> ·
-  <a href="mailto:abhikrishnaram88@gmail.com">Email</a>
+  <a href="mailto:abhikrishnaram88@gmail.com">Email</a> ·
+  <a href="https://abhikrishnaram.com/abhiramkrishna-resume.pdf">Resume</a>
 </p>
 
 <br>
